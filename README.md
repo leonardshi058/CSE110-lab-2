@@ -1,2 +1,2 @@
-# Lab 2 - Starter
-https://leonardshi058.github.io/Lab2_Starter/
+# Lab 3
+https://github.com/leonardshi058/sp25-cse110-lab3
